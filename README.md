@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shrag13
 - 👀 I’m interested in ... proramming 
-- 🌱 I’m currently learning ... html-css-JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... JavaScript
+- 💞️ I’m looking to collaborate on ... practice projects
 - 📫 How to reach me ...
 
 <!---
